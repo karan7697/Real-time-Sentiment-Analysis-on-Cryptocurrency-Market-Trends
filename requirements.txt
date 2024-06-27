@@ -1,0 +1,10 @@
+boto3
+tweepy
+kafka-python
+beautifulsoup4
+requests
+transformers
+torch
+flask
+pandas
+nltk
